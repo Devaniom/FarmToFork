@@ -1,6 +1,5 @@
 🌾 FarmToFork
 
-Project Title:
 FarmToFork – Direct Organic Produce Marketplace
 
 
